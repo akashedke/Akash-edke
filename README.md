@@ -1,3 +1,6 @@
 Welcome to Akash GitHub Profile 👋
-About Me ℹ️
+
+<br>
+<a> About Me ℹ️</a>
+<br>
 🔭 I’m currently pursuing BCA  
