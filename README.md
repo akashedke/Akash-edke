@@ -71,7 +71,7 @@ A full-stack blogging platform designed with separate roles for **Admin, Author 
 
 ## 📊 GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashedke&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
